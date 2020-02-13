@@ -29,7 +29,7 @@ threejs = () => {
 
     // 创建一个场景
     var scene = new THREE.Scene()
-    // 将立方体网格加入到场景中
+    // 将立方体网格加入到场景中 
     scene.add(cube)
 
 
