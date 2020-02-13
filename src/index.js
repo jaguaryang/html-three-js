@@ -1,5 +1,5 @@
 threejs = () => {
-    console.log(435435)
+
     // 获取浏览器窗口的宽高，后续会用
     var width = window.innerWidth
     var height = window.innerHeight
